@@ -1,7 +1,12 @@
 aid: dover
-url: https://raw.githubusercontent.com/api-evangelist/dover/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/dover/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.dover.com
+description: >-
+  2,000+ companies hire with Dover - the best way for startups to find recruiting
+  help. Access a marketplace of top fractional tech recruiters and run your process
+  in our free ATS built for startups.
