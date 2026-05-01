@@ -1,33 +1,36 @@
-# Dover (dover)
-Dover is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Dover.
+# Dover Corporation (dover)
+
+Dover Corporation is a diversified American industrial conglomerate headquartered in Downers Grove, Illinois. Dover operates across five segments - Engineered Products, Clean Energy and Fueling, Imaging and Identification, Pumps and Process Solutions, and Climate and Sustainability Technologies - through a portfolio of decentralized operating companies including Dover Fueling Solutions, OPW, Markem-Imaje, PSG, and Vehicle Service Group.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/dover/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract
-- **Position:** Consuming
+- **Type:** Index
+- **Position:** Consumer
 - **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Fortune 500
+- Industrial
+- Manufacturing
+- Fortune 500
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No public APIs have been documented yet. Contributions welcome.
+No public APIs have been documented yet for Dover Corporation. Operating companies (e.g., Dover Fueling Solutions, Markem-Imaje, OPW) may expose product or partner integrations through their own portals; contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.dover.com)
+- [Website](https://www.dovercorporation.com)
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
