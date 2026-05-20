@@ -19,6 +19,8 @@ description: >-
   and Vehicle Service Group.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/dovercorp
   - type: Website
     url: https://www.dovercorporation.com
 maintainers:
