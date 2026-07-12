@@ -19,6 +19,8 @@ description: >-
   and Vehicle Service Group.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/dover-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/dovercorp
   - type: Website
