@@ -1,7 +1,9 @@
 ---
 title: Dover India's Post
 url: https://www.linkedin.com/posts/dover-solutions-india_doverindia-ai-artificialintelligence-activity-7266765109018976256-TwxY
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dover" press release artificial intelligence'
 position: 4
 source: serpapi-google

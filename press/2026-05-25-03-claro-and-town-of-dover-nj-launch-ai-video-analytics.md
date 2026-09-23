@@ -1,7 +1,9 @@
 ---
 title: Claro and Town of Dover, NJ Launch AI Video Analytics ...
 url: https://www.prnewswire.com/news-releases/claro-and-town-of-dover-nj-launch-ai-video-analytics-to-transform-public-safety-302580849.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dover" press release artificial intelligence'
 position: 3
 source: serpapi-google

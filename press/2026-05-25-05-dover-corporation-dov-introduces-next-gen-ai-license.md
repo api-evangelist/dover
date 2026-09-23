@@ -1,7 +1,9 @@
 ---
 title: Dover Corporation (DOV) Introduces Next-Gen AI License ...
 url: https://finance.yahoo.com/news/dover-corporation-dov-introduces-next-181101736.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dover" press release artificial intelligence'
 position: 5
 source: serpapi-google
