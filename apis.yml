@@ -1,5 +1,5 @@
 aid: dover
-name: Dover Corporation
+name: Dover
 url: >-
   https://raw.githubusercontent.com/api-evangelist/dover/refs/heads/main/apis.yml
 type: Index
@@ -51,3 +51,4 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 specificationVersion: '0.23'
+x-legal-name: Dover Corporation
